@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2rTpiRDsT0hKyaLf+vWjJ2waT/b0FmcXWq8qJuZ68bxHDFbJGNnzES8BHW+uwL5paeov/3hHeubEjjlHZ9ajA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodrigo.perozin\\source\\repos\\KABP Source\\KABP.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodrigo.perozin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

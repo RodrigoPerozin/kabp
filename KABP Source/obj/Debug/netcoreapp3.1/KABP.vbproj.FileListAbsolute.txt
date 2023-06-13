@@ -1,0 +1,39 @@
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.Form1.resources
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.vbproj.GenerateResource.cache
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.AssemblyInfoInputs.cache
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.AssemblyInfo.vb
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.vbproj.CoreCompileInputs.cache
+C:\Users\rodrigo.perozin\source\repos\KABP\bin\Debug\netcoreapp3.1\KABP.exe
+C:\Users\rodrigo.perozin\source\repos\KABP\bin\Debug\netcoreapp3.1\KABP.deps.json
+C:\Users\rodrigo.perozin\source\repos\KABP\bin\Debug\netcoreapp3.1\KABP.runtimeconfig.json
+C:\Users\rodrigo.perozin\source\repos\KABP\bin\Debug\netcoreapp3.1\KABP.runtimeconfig.dev.json
+C:\Users\rodrigo.perozin\source\repos\KABP\bin\Debug\netcoreapp3.1\KABP.dll
+C:\Users\rodrigo.perozin\source\repos\KABP\bin\Debug\netcoreapp3.1\KABP.pdb
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.dll
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.pdb
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.genruntimeconfig.cache
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.Resources.resources
+C:\Users\rodrigo.perozin\source\repos\KABP\bin\Debug\netcoreapp3.1\en-UM\KABP.resources.dll
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\KABP.Form1.en-UM.resources
+C:\Users\rodrigo.perozin\source\repos\KABP\obj\Debug\netcoreapp3.1\en-UM\KABP.resources.dll
+C:\Users\rodrigo.perozin\source\repos\KABP Source\bin\Debug\netcoreapp3.1\KABP.exe
+C:\Users\rodrigo.perozin\source\repos\KABP Source\bin\Debug\netcoreapp3.1\KABP.deps.json
+C:\Users\rodrigo.perozin\source\repos\KABP Source\bin\Debug\netcoreapp3.1\KABP.runtimeconfig.json
+C:\Users\rodrigo.perozin\source\repos\KABP Source\bin\Debug\netcoreapp3.1\KABP.runtimeconfig.dev.json
+C:\Users\rodrigo.perozin\source\repos\KABP Source\bin\Debug\netcoreapp3.1\KABP.dll
+C:\Users\rodrigo.perozin\source\repos\KABP Source\bin\Debug\netcoreapp3.1\KABP.pdb
+C:\Users\rodrigo.perozin\source\repos\KABP Source\bin\Debug\netcoreapp3.1\en-UM\KABP.resources.dll
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.Form1.resources
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.Resources.resources
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.Form1.en-UM.resources
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.vbproj.GenerateResource.cache
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.AssemblyInfoInputs.cache
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.AssemblyInfo.vb
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.vbproj.CoreCompileInputs.cache
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\en-UM\KABP.resources.dll
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.dll
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.pdb
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.genruntimeconfig.cache
+C:\Users\rodrigo.perozin\source\repos\KABP Source\obj\Debug\netcoreapp3.1\KABP.vbproj.AssemblyReference.cache
